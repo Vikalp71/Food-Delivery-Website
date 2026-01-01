@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from '../../Component/Layout/Layout';
- import '../../Styles/homestyle.css'
+ import '../../Styles/Homestyle.css'
 import Section1 from './Section1';
 
 
